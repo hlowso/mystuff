@@ -6,3 +6,4 @@ secretfile filter=git-crypt diff=git-crypt
 *.yaml filter=git-crypt diff=git-crypt
 *.yml filter=git-crypt diff=git-crypt
 *.py filter=git-crypt diff=git-crypt
+*.pyc filter=git-crypt diff=git-crypt
